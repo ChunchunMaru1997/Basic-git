@@ -1,1 +1,1 @@
- p hoc git
+ p hoc git s
